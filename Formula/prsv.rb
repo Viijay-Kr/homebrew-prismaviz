@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class PRSV < Formula
+class Prsv < Formula
   desc "Visualise Prisma schema in your terminal"
   homepage "https://github.com/Viijay-Kr/prisma-visualise"
   url "https://github.com/Viijay-Kr/prisma-visualise/releases/download/v0.0.1/prsv-mac.tar.gz"
